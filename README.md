@@ -1,2 +1,2 @@
-# emodl
-Framework for various Deep Learning models for embedded and mobile devices
+# EMoDL
+The libraray is comming soon ...
